@@ -10,7 +10,7 @@ components:
   - layout/grid/FlexPlayground
 ---
 
-To help you understand the Flexbox better, we have written an interactive playground for you. Create your grid and then copy the values to your projects.
+To help you understand Flexbox better, we have written an interactive playground for you. Create your grid and then copy the values to your project.
 
 ::: tip
 The active child will have a blue index. Being active relates to the **Child Classes** and **Child Styles** listed below the results.
