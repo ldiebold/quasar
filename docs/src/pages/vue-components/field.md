@@ -89,7 +89,7 @@ Anything you place inside the `control` slot will be used as content of the fiel
 <doc-example title="Control types" file="QField/ControlTypes" />
 
 ::: tip
-Most of the form controls always render something visible, so you if you're using a `label` then you might want to set it along with `stack-label`, otherwise the label will overlap the enclosed control.
+Most of the form controls always render something visible, so if you're using a `label` then you might want to set it along with `stack-label`, otherwise the label will overlap the enclosed control.
 :::
 
 ### Prefix and suffix
