@@ -85,7 +85,7 @@ Support and behavior is the subject entirely of the browser rendering the page a
 <doc-example title="Input types" file="QInput/InputTypes" />
 
 ::: tip
-Some input types (like `date` or `time`) always render some controls, so you if you're using a `label` then you might want to set it along with `stack-label`, otherwise the label will overlap native browser controls.
+Some input types (like `date` or `time`) always render some controls, so if you're using a `label` then you might want to set it along with `stack-label`, otherwise the label will overlap native browser controls.
 :::
 
 #### Input of number type
